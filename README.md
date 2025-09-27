@@ -47,5 +47,12 @@ This project focuses on clean UI design and professional layout to showcase an I
    ```bash
    http://localhost:5173
    ```
-   
+
+## 🎨 Design Choices
+
+- **Modern & Professional Look**: Used Tailwind CSS with clean typography, spacing, and neutral colors to maintain professionalism.  
+- **Responsive First**: Designed with a mobile-first approach, ensuring usability on phones, tablets, and desktops.  
+- **Clear Hierarchy**: Hero section highlights the main call-to-action, followed by features, testimonials, and footer.  
+- **User-Friendly Layout**: Simple navigation and scannable content to keep the focus on what students need most.  
+
 
