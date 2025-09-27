@@ -1,16 +1,51 @@
-# React + Vite
+# IELTS Institute Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive homepage for a fictional IELTS coaching institute built with **React.js** and **Tailwind CSS**.  
+This project focuses on clean UI design and professional layout to showcase an IELTS institute's offerings.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Responsive Navbar** with logo and navigation links  
+- **Hero Section** with headline, sub-text, call-to-action button, and banner image  
+- **Feature Cards** (Speaking Practice, Mock Tests, AI Band Score, etc.)  
+- **Student Testimonials** (short reviews for credibility)  
+- **Footer** with basic links and contact info  
+- **Responsive Design** (works seamlessly on desktop and mobile)  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- **React.js** (Frontend library)
+- **Tailwind CSS** (Styling)
+- **Vite / CRA** (Bundler – depending on setup)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## ⚡ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SatynarayanMaurya/IELTS-Achievers.git
+   cd IELTS-Achievers
+   ```
+   
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+   
+3. Run development server:
+   ```bash
+   npm run dev
+   ```
+   
+4. Open in browser:
+   ```bash
+   http://localhost:5173
+   ```
+   
+
