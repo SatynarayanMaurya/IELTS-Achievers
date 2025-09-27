@@ -1,10 +1,9 @@
-import React from 'react'
-import IELTSHomepage from './components/IELTSHomePage'
+import Homepage from './components/Homepage'
 
 function App() {
   return (
     <div>
-      <IELTSHomepage/>
+      <Homepage/>
     </div>
   )
 }

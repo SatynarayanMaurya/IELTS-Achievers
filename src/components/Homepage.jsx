@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Menu, X, Star, Users, Award, Clock, BookOpen, Mic, Target, Phone, Mail, MapPin, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
 
-const IELTSHomepage = () => {
+const Homepage = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const fadeInUp = {
@@ -464,4 +464,5 @@ const IELTSHomepage = () => {
   );
 };
 
-export default IELTSHomepage;
+
+export default Homepage
